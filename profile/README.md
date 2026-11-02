@@ -76,18 +76,6 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- Apple-jun -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>Apple-jun · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Apple-jun" title="Repository 열기 · Apple-jun"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
     <!-- CH_HD -->
     <tr>
       <td align="center"><a href="https://github.com/choi-HUB1234" title="@choi-HUB1234"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331858827%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@choi-HUB1234" width="40" height="40"></a></td>
@@ -136,18 +124,6 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- EJ_SNUH -->
-    <tr>
-      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
-      <td>서울대학교병원</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Repository 열기 · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">배포 전</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
     <!-- HN_SD.BIO -->
     <tr>
       <td align="center"><a href="https://github.com/naena0815-maker" title="@naena0815-maker"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914721%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@naena0815-maker" width="40" height="40"></a></td>
@@ -172,36 +148,12 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- Jh_hynix -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>Jh_hynix · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Jh_hynix" title="Repository 열기 · Jh_hynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
     <!-- jh_skhynix -->
     <tr>
       <td align="center"><a href="https://github.com/jihyun007" title="@jihyun007"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917642%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jihyun007" width="40" height="40"></a></td>
       <td>SK하이닉스</td>
       <td align="center"><a href="https://github.com/HSC-Class02/jh_skhynix" title="Repository 열기 · jh_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
       <td align="center"><a href="https://hsc-class02.github.io/jh_skhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- JS_DEEPNOID -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>딥노이드</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Repository 열기 · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -238,18 +190,6 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>삼성전자</td>
       <td align="center"><a href="https://github.com/HSC-Class02/JY_SAMSUNG" title="Repository 열기 · JY_SAMSUNG"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
       <td align="center"><a href="https://hsc-class02.github.io/JY_SAMSUNG/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- Kyu-skhynix -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>Kyu-skhynix · 저장소 비어 있음</sub></td>
-      <td align="center">🔒 <a href="https://github.com/HSC-Class02/Kyu-skhynix" title="Repository 열기 · Kyu-skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -316,60 +256,12 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- seokjun_skhynix1 -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>seokjun_skhynix1 · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix1" title="Repository 열기 · seokjun_skhynix1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- sh_neobiotec -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>sh_neobiotec · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotec" title="Repository 열기 · sh_neobiotec"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- sh_neobiotech -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>sh_neobiotech · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotech" title="Repository 열기 · sh_neobiotech"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
     <!-- SH_SKhynix -->
     <tr>
       <td align="center"><a href="https://github.com/ssong071210-rgb" title="@ssong071210-rgb"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331844341%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ssong071210-rgb" width="40" height="40"></a></td>
       <td>SK하이닉스</td>
       <td align="center"><a href="https://github.com/HSC-Class02/SH_SKhynix" title="Repository 열기 · SH_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
       <td align="center"><a href="https://HSC-Class02.github.io/SH_SKhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- sj_samsung -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>sj_samsung · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung" title="Repository 열기 · sj_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -394,18 +286,6 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>삼성전자</td>
       <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung" title="Repository 열기 · sujeong_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
       <td align="center"><a href="https://hsc-class02.github.io/sujeong_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- sujeong_samsung- -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>sujeong_samsung- · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung-" title="Repository 열기 · sujeong_samsung-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -448,11 +328,35 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- YR_osstem -->
+    <!-- ys_SEERS -->
+    <tr>
+      <td align="center"><a href="https://github.com/pys1234567890" title="@pys1234567890"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154675481%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@pys1234567890" width="40" height="40"></a></td>
+      <td>씨어스</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ys_SEERS" title="Repository 열기 · ys_SEERS"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/ys_SEERS/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- yw_samsung -->
+    <tr>
+      <td align="center"><a href="https://github.com/js0108279-pixel" title="@js0108279-pixel"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331859774%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@js0108279-pixel" width="40" height="40"></a></td>
+      <td>삼성전자</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/yw_samsung" title="Repository 열기 · yw_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/yw_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- Apple-jun -->
     <tr>
       <td align="center">미확인</td>
-      <td>기업명 미확인<br><sub>YR_osstem · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YR_osstem" title="Repository 열기 · YR_osstem"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td>기업명 미확인<br><sub>Apple-jun · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Apple-jun" title="Repository 열기 · Apple-jun"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -460,12 +364,120 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- ys_SEERS -->
+    <!-- EJ_SNUH -->
     <tr>
-      <td align="center"><a href="https://github.com/pys1234567890" title="@pys1234567890"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154675481%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@pys1234567890" width="40" height="40"></a></td>
-      <td>씨어스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ys_SEERS" title="Repository 열기 · ys_SEERS"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/ys_SEERS/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
+      <td>서울대학교병원</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Repository 열기 · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">배포 전</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- Jh_hynix -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>Jh_hynix · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Jh_hynix" title="Repository 열기 · Jh_hynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- JS_DEEPNOID -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>딥노이드</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Repository 열기 · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- Kyu-skhynix -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>Kyu-skhynix · 저장소 비어 있음</sub></td>
+      <td align="center">🔒 <a href="https://github.com/HSC-Class02/Kyu-skhynix" title="Repository 열기 · Kyu-skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- seokjun_skhynix1 -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>seokjun_skhynix1 · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix1" title="Repository 열기 · seokjun_skhynix1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- sh_neobiotec -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>sh_neobiotec · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotec" title="Repository 열기 · sh_neobiotec"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- sh_neobiotech -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>sh_neobiotech · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotech" title="Repository 열기 · sh_neobiotech"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- sj_samsung -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>sj_samsung · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung" title="Repository 열기 · sj_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- sujeong_samsung- -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>sujeong_samsung- · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung-" title="Repository 열기 · sujeong_samsung-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- YR_osstem -->
+    <tr>
+      <td align="center">미확인</td>
+      <td>기업명 미확인<br><sub>YR_osstem · 저장소 비어 있음</sub></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YR_osstem" title="Repository 열기 · YR_osstem"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -490,18 +502,6 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>삼성전자</td>
       <td align="center"><a href="https://github.com/HSC-Class02/YW_Sam" title="Repository 열기 · YW_Sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
       <td align="center"><a href="https://hsc-class02.github.io/YW_Sam/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <!-- yw_samsung -->
-    <tr>
-      <td align="center"><a href="https://github.com/js0108279-pixel" title="@js0108279-pixel"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331859774%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@js0108279-pixel" width="40" height="40"></a></td>
-      <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/yw_samsung" title="Repository 열기 · yw_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/yw_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
