@@ -707,7 +707,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <!-- juy_KEPC -->
     <tr>
       <td align="center"><a href="https://github.com/juyeong9335-lgtm" title="@juyeong9335-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328919783%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@juyeong9335-lgtm" width="40" height="40"></a></td>
-      <td>Korea Electric Power Corporation</td>
+      <td>KEPCO</td>
       <td align="center"><a href="https://github.com/HSC-Class02/juy_KEPC" title="Open repository · juy_KEPC"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
       <td align="center"><a href="https://hsc-class02.github.io/juy_KEPC/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
       <td>&nbsp;</td>
