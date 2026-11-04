@@ -911,7 +911,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <!-- EJ_SNUH -->
     <tr>
       <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
-      <td>Seoul National University Hospital</td>
+      <td>SNUH</td>
       <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Open repository · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
       <td align="center">Not yet deployed</td>
       <td>&nbsp;</td>
