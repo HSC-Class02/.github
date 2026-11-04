@@ -542,7 +542,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
 
 ---
 
-# HSC-Class02 — English
+# [HSC-Class02] Course Introduction
 
 > **Project space for Section 02 of “AI That Companies Want,” Fall Semester 2026.**
 
