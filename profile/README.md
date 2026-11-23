@@ -222,6 +222,18 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://ms-portfolio-taupe.vercel.app" title="Portfolio · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
+    <!-- sb_samsung -->
+    <tr>
+      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
+      <td>삼성전자</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sb_samsung" title="Repository 열기 · sb_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sb_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://sb-portfolio-wheat.vercel.app/" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+    </tr>
     <!-- SB_SKhynix -->
     <tr>
       <td align="center"><a href="https://github.com/131n22" title="@131n22"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918592%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@131n22" width="32" height="32"></a></td>
@@ -512,16 +524,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td>&nbsp;</td>
     </tr>
     
-    <!-- portfolio-author: wjdthfql -->
-    <tr>
-      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
-      <td colspan="3">기업 분석 프로젝트 미연결</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://sb-portfolio-wheat.vercel.app" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
-      <td>&nbsp;</td>
-    </tr>
+    
   </tbody>
 </table>
 
@@ -778,6 +781,18 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://ms-portfolio-taupe.vercel.app" title="Portfolio · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- sb_samsung -->
+    <tr>
+      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
+      <td>Samsung Electronics</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sb_samsung" title="Open repository · sb_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sb_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://sb-portfolio-wheat.vercel.app/" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SB_SKhynix -->
@@ -1070,16 +1085,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
     </tr>
     
-    <!-- portfolio-author: wjdthfql -->
-    <tr>
-      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
-      <td colspan="3">Corporate project not linked</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://sb-portfolio-wheat.vercel.app" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
-      <td>&nbsp;</td>
-    </tr>
+    
   </tbody>
 </table>
 
