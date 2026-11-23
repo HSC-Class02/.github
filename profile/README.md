@@ -73,7 +73,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ak_portfolio" title="Portfolio Code · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- CH_HD -->
@@ -109,7 +109,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/park-jung-wom_portfolio" title="Portfolio Code · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- EJ_GC-MediAI -->
@@ -133,7 +133,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/HN_PORTPOLIO" title="Portfolio Code · HN_PORTPOLIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- hy_samsung-electronics -->
@@ -145,7 +145,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/kimhayan_portfolio" title="Portfolio Code · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- jh_skhynix -->
@@ -169,7 +169,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JW_NAVER -->
@@ -181,7 +181,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/jws_portfolio" title="Portfolio Code · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JY_SAMSUNG -->
@@ -193,7 +193,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JAEYOUNG_portfolio" title="Portfolio Code · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- ms_samsung -->
@@ -205,7 +205,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SB_SKhynix -->
@@ -229,7 +229,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Seokchan_portfolio" title="Portfolio Code · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SE_Seegene -->
@@ -241,7 +241,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seongeun_portfolio" title="Portfolio Code · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- seokjun_skhynix -->
@@ -253,7 +253,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjoun_portfolio" title="Portfolio Code · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SH_SKhynix -->
@@ -289,7 +289,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_portfolio" title="Portfolio Code · sujeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- sy_emart -->
@@ -301,7 +301,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/siyun_portfolio" title="Portfolio Code · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- wj-SONOsquare -->
@@ -337,7 +337,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ys_portfolio" title="Portfolio Code · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- yw_samsung -->
@@ -349,7 +349,7 @@ HSC-Class02는 기업과 산업에 관한 데이터를 분석하고 프로젝트
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- Apple-jun -->
@@ -617,7 +617,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ak_portfolio" title="Portfolio Code · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- CH_HD -->
@@ -653,7 +653,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/park-jung-wom_portfolio" title="Portfolio Code · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- EJ_GC-MediAI -->
@@ -677,7 +677,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/HN_PORTPOLIO" title="Portfolio Code · HN_PORTPOLIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- hy_samsung-electronics -->
@@ -689,7 +689,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/kimhayan_portfolio" title="Portfolio Code · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- jh_skhynix -->
@@ -713,7 +713,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JW_NAVER -->
@@ -725,7 +725,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/jws_portfolio" title="Portfolio Code · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JY_SAMSUNG -->
@@ -737,7 +737,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JAEYOUNG_portfolio" title="Portfolio Code · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- ms_samsung -->
@@ -749,7 +749,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SB_SKhynix -->
@@ -773,7 +773,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Seokchan_portfolio" title="Portfolio Code · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SE_Seegene -->
@@ -785,7 +785,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seongeun_portfolio" title="Portfolio Code · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- seokjun_skhynix -->
@@ -797,7 +797,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjoun_portfolio" title="Portfolio Code · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SH_SKhynix -->
@@ -833,7 +833,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_portfolio" title="Portfolio Code · sujeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- sy_emart -->
@@ -845,7 +845,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/siyun_portfolio" title="Portfolio Code · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- wj-SONOsquare -->
@@ -881,7 +881,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ys_portfolio" title="Portfolio Code · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- yw_samsung -->
@@ -893,7 +893,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- Apple-jun -->
