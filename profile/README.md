@@ -44,46 +44,46 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
   <tbody>
     <!-- JY_LScns -->
     <tr>
-      <td rowspan="3" align="center"><strong>수업<br>목표</strong><br><a href="https://github.com/jinawinwin" title="@jinawinwin"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F311670560%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jinawinwin" width="40" height="40"></a></td>
+      <td rowspan="3" align="center"><strong>수업<br>목표</strong><br><a href="https://github.com/jinawinwin" title="@jinawinwin"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F311670560%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jinawinwin" width="32" height="32"></a></td>
       <td>LS전선</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_LScns" title="Repository 열기 · JY_LScns"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_LScns/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_LScns" title="Repository 열기 · JY_LScns"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_LScns/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
-      <td rowspan="3"><a href="https://jinawinwin.vercel.app/">Portfolio</a></td>
+      <td rowspan="3" align="center" width="72" nowrap><a href="https://github.com/HSC-Class01/jeeyoun_portfolio" title="Portfolio Code · jinawinwin"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jinawinwin.vercel.app/" title="Portfolio · jinawinwin"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td rowspan="3"><a href="https://www.linkedin.com/in/jinawinwin/">LinkedIn</a></td>
     </tr>
     <!-- JY_taihan -->
     <tr>
       <td>대한전선</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_taihan" title="Repository 열기 · JY_taihan"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_taihan/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_taihan" title="Repository 열기 · JY_taihan"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_taihan/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
     </tr>
     <!-- JY_Gaon -->
     <tr>
       <td>가온전선</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_Gaon" title="Repository 열기 · JY_Gaon"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_Gaon/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_Gaon" title="Repository 열기 · JY_Gaon"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_Gaon/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
     </tr>
     <!-- AK_InBody -->
     <tr>
-      <td align="center"><a href="https://github.com/ahnkyu1924-oss" title="@ahnkyu1924-oss"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915441%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ahnkyu1924-oss" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/ahnkyu1924-oss" title="@ahnkyu1924-oss"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915441%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ahnkyu1924-oss" width="32" height="32"></a></td>
       <td>인바디</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/AK_InBody" title="Repository 열기 · AK_InBody"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/AK_InBody/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/AK_InBody" title="Repository 열기 · AK_InBody"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/AK_InBody/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ak_portfolio" title="Portfolio Code · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://akportfolio-kyu-ahn.vercel.app" title="Portfolio · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ak_portfolio" title="Portfolio Code · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://akportfolio-kyu-ahn.vercel.app" title="Portfolio · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- CH_HD -->
     <tr>
-      <td align="center"><a href="https://github.com/choi-HUB1234" title="@choi-HUB1234"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331858827%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@choi-HUB1234" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/choi-HUB1234" title="@choi-HUB1234"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331858827%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@choi-HUB1234" width="32" height="32"></a></td>
       <td>HD현대</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/CH_HD" title="Repository 열기 · CH_HD"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/CH_HD/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/CH_HD" title="Repository 열기 · CH_HD"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/CH_HD/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -92,10 +92,10 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- csh_sam -->
     <tr>
-      <td align="center"><a href="https://github.com/cshcsh2222-afk" title="@cshcsh2222-afk"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914575%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cshcsh2222-afk" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/cshcsh2222-afk" title="@cshcsh2222-afk"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914575%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cshcsh2222-afk" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/csh_sam" title="Repository 열기 · csh_sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/csh_sam/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/csh_sam" title="Repository 열기 · csh_sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/csh_sam/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -104,22 +104,22 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- dart-park-jung-won -->
     <tr>
-      <td align="center"><a href="https://github.com/sgk70062-code" title="@sgk70062-code"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916436%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sgk70062-code" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/sgk70062-code" title="@sgk70062-code"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916436%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sgk70062-code" width="32" height="32"></a></td>
       <td>SK하이닉스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/dart-park-jung-won" title="Repository 열기 · dart-park-jung-won"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/dart-park-jung-won/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/dart-park-jung-won" title="Repository 열기 · dart-park-jung-won"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/dart-park-jung-won/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/park-jung-wom_portfolio" title="Portfolio Code · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://park-jung-wom-portfolio.vercel.app" title="Portfolio · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/park-jung-wom_portfolio" title="Portfolio Code · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://park-jung-wom-portfolio.vercel.app" title="Portfolio · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- EJ_GC-MediAI -->
     <tr>
-      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="32" height="32"></a></td>
       <td>GC메디아이</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/EJ_GC-MediAI" title="Repository 열기 · EJ_GC-MediAI"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/EJ_GC-MediAI/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/EJ_GC-MediAI" title="Repository 열기 · EJ_GC-MediAI"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/EJ_GC-MediAI/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -128,34 +128,34 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- HN_SD.BIO -->
     <tr>
-      <td align="center"><a href="https://github.com/naena0815-maker" title="@naena0815-maker"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914721%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@naena0815-maker" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/naena0815-maker" title="@naena0815-maker"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914721%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@naena0815-maker" width="32" height="32"></a></td>
       <td>에스디바이오센서</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/HN_SD.BIO" title="Repository 열기 · HN_SD.BIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/HN_SD.BIO/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/HN_SD.BIO" title="Repository 열기 · HN_SD.BIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/HN_SD.BIO/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/HN_PORTPOLIO" title="Portfolio Code · HN_PORTPOLIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/HN_PORTPOLIO" title="Portfolio Code · HN_PORTPOLIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- hy_samsung-electronics -->
     <tr>
-      <td align="center"><a href="https://github.com/kimkimhayan227-tech" title="@kimkimhayan227-tech"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331852665%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimkimhayan227-tech" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/kimkimhayan227-tech" title="@kimkimhayan227-tech"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331852665%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimkimhayan227-tech" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/hy_samsung-electronics" title="Repository 열기 · hy_samsung-electronics"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/hy_samsung-electronics/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/hy_samsung-electronics" title="Repository 열기 · hy_samsung-electronics"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/hy_samsung-electronics/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/kimhayan_portfolio" title="Portfolio Code · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://kimhayanportfolio.vercel.app" title="Portfolio · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/kimhayan_portfolio" title="Portfolio Code · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://kimhayanportfolio.vercel.app" title="Portfolio · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- jh_skhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/jihyun007" title="@jihyun007"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917642%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jihyun007" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/jihyun007" title="@jihyun007"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917642%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jihyun007" width="32" height="32"></a></td>
       <td>SK하이닉스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/jh_skhynix" title="Repository 열기 · jh_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/jh_skhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/jh_skhynix" title="Repository 열기 · jh_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/jh_skhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -164,58 +164,58 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- juy_KEPC -->
     <tr>
-      <td align="center"><a href="https://github.com/juyeong9335-lgtm" title="@juyeong9335-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328919783%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@juyeong9335-lgtm" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/juyeong9335-lgtm" title="@juyeong9335-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328919783%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@juyeong9335-lgtm" width="32" height="32"></a></td>
       <td>한국전력공사</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/juy_KEPC" title="Repository 열기 · juy_KEPC"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/juy_KEPC/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/juy_KEPC" title="Repository 열기 · juy_KEPC"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/juy_KEPC/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://juyeong-portfolio.vercel.app" title="Portfolio · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://juyeong-portfolio.vercel.app" title="Portfolio · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JW_NAVER -->
     <tr>
-      <td align="center"><a href="https://github.com/kimgongfly-lab" title="@kimgongfly-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914631%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimgongfly-lab" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/kimgongfly-lab" title="@kimgongfly-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914631%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimgongfly-lab" width="32" height="32"></a></td>
       <td>NAVER</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JW_NAVER" title="Repository 열기 · JW_NAVER"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JW_NAVER/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JW_NAVER" title="Repository 열기 · JW_NAVER"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JW_NAVER/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/jws_portfolio" title="Portfolio Code · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://jwsportfolio.vercel.app" title="Portfolio · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jws_portfolio" title="Portfolio Code · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jwsportfolio.vercel.app" title="Portfolio · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JY_SAMSUNG -->
     <tr>
-      <td align="center"><a href="https://github.com/jy-117-02" title="@jy-117-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916473%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jy-117-02" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/jy-117-02" title="@jy-117-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916473%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jy-117-02" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_SAMSUNG" title="Repository 열기 · JY_SAMSUNG"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_SAMSUNG/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_SAMSUNG" title="Repository 열기 · JY_SAMSUNG"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_SAMSUNG/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JAEYOUNG_portfolio" title="Portfolio Code · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://jaeyoungportfolio.vercel.app/" title="Portfolio · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/JAEYOUNG_portfolio" title="Portfolio Code · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jaeyoungportfolio.vercel.app/" title="Portfolio · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- ms_samsung -->
     <tr>
-      <td align="center"><a href="https://github.com/msshin0280-lgtm" title="@msshin0280-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914297%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@msshin0280-lgtm" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/msshin0280-lgtm" title="@msshin0280-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914297%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@msshin0280-lgtm" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ms_samsung" title="Repository 열기 · ms_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/ms_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ms_samsung" title="Repository 열기 · ms_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/ms_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://ms-portfolio-taupe.vercel.app" title="Portfolio · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://ms-portfolio-taupe.vercel.app" title="Portfolio · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SB_SKhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/131n22" title="@131n22"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918592%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@131n22" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/131n22" title="@131n22"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918592%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@131n22" width="32" height="32"></a></td>
       <td>SK하이닉스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SB_SKhynix" title="Repository 열기 · SB_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/SB_SKhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SB_SKhynix" title="Repository 열기 · SB_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/SB_SKhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -224,46 +224,46 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- SC_SamsungEc -->
     <tr>
-      <td align="center"><a href="https://github.com/DgGoo70" title="@DgGoo70"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271452374%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@DgGoo70" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/DgGoo70" title="@DgGoo70"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271452374%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@DgGoo70" width="32" height="32"></a></td>
       <td>삼성전기</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SC_SamsungEc" title="Repository 열기 · SC_SamsungEc"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/SC_SamsungEc/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SC_SamsungEc" title="Repository 열기 · SC_SamsungEc"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/SC_SamsungEc/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Seokchan_portfolio" title="Portfolio Code · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://seokchanportfolio.vercel.app" title="Portfolio · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/Seokchan_portfolio" title="Portfolio Code · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://seokchanportfolio.vercel.app" title="Portfolio · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SE_Seegene -->
     <tr>
-      <td align="center"><a href="https://github.com/Seongeun-02" title="@Seongeun-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914949%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@Seongeun-02" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/Seongeun-02" title="@Seongeun-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914949%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@Seongeun-02" width="32" height="32"></a></td>
       <td>씨젠</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SE_Seegene" title="Repository 열기 · SE_Seegene"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://HSC-Class02.github.io/SE_Seegene/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SE_Seegene" title="Repository 열기 · SE_Seegene"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://HSC-Class02.github.io/SE_Seegene/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seongeun_portfolio" title="Portfolio Code · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://seongeunportfolio-ten.vercel.app" title="Portfolio · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/seongeun_portfolio" title="Portfolio Code · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://seongeunportfolio-ten.vercel.app" title="Portfolio · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- seokjun_skhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/qkdtjrwns12345-alt" title="@qkdtjrwns12345-alt"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915920%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@qkdtjrwns12345-alt" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/qkdtjrwns12345-alt" title="@qkdtjrwns12345-alt"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915920%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@qkdtjrwns12345-alt" width="32" height="32"></a></td>
       <td>SK하이닉스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix" title="Repository 열기 · seokjun_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/seokjun_skhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix" title="Repository 열기 · seokjun_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/seokjun_skhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjoun_portfolio" title="Portfolio Code · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://seokjounportfolio.vercel.app" title="Portfolio · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/seokjoun_portfolio" title="Portfolio Code · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://seokjounportfolio.vercel.app" title="Portfolio · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SH_SKhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/ssong071210-rgb" title="@ssong071210-rgb"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331844341%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ssong071210-rgb" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/ssong071210-rgb" title="@ssong071210-rgb"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331844341%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ssong071210-rgb" width="32" height="32"></a></td>
       <td>SK하이닉스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SH_SKhynix" title="Repository 열기 · SH_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://HSC-Class02.github.io/SH_SKhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SH_SKhynix" title="Repository 열기 · SH_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://HSC-Class02.github.io/SH_SKhynix/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -272,10 +272,10 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- sj_samsung1 -->
     <tr>
-      <td align="center"><a href="https://github.com/32trgfdg" title="@32trgfdg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917259%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@32trgfdg" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/32trgfdg" title="@32trgfdg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917259%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@32trgfdg" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung1" title="Repository 열기 · sj_samsung1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/sj_samsung1/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung1" title="Repository 열기 · sj_samsung1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sj_samsung1/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -284,34 +284,34 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- sujeong_samsung -->
     <tr>
-      <td align="center"><a href="https://github.com/07sujeong-jpg" title="@07sujeong-jpg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915512%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@07sujeong-jpg" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/07sujeong-jpg" title="@07sujeong-jpg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915512%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@07sujeong-jpg" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung" title="Repository 열기 · sujeong_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/sujeong_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung" title="Repository 열기 · sujeong_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sujeong_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_portfolio" title="Portfolio Code · sujeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sujeong_portfolio" title="Portfolio Code · sujeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- sy_emart -->
     <tr>
-      <td align="center"><a href="https://github.com/sadzxc706-sketch" title="@sadzxc706-sketch"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328923137%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sadzxc706-sketch" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/sadzxc706-sketch" title="@sadzxc706-sketch"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328923137%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sadzxc706-sketch" width="32" height="32"></a></td>
       <td>이마트</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sy_emart" title="Repository 열기 · sy_emart"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/sy_emart/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sy_emart" title="Repository 열기 · sy_emart"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sy_emart/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/siyun_portfolio" title="Portfolio Code · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://vercel.com/sadzxc706-2000/siyun-portfolio" title="Vercel 관리 · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Vercel 관리" width="36" height="36"></a><br><sub>Vercel 관리</sub></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/siyun_portfolio" title="Portfolio Code · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://vercel.com/sadzxc706-2000/siyun-portfolio" title="Vercel 관리 · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Vercel 관리" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- wj-SONOsquare -->
     <tr>
-      <td align="center"><a href="https://github.com/k77m5hpwpb-hash" title="@k77m5hpwpb-hash"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334762567%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@k77m5hpwpb-hash" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/k77m5hpwpb-hash" title="@k77m5hpwpb-hash"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334762567%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@k77m5hpwpb-hash" width="32" height="32"></a></td>
       <td>소노스퀘어</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/wj-SONOsquare" title="Repository 열기 · wj-SONOsquare"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/wj-SONOsquare/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/wj-SONOsquare" title="Repository 열기 · wj-SONOsquare"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/wj-SONOsquare/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -320,10 +320,10 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- yb-kia -->
     <tr>
-      <td align="center"><a href="https://github.com/cyb070108-cyber" title="@cyb070108-cyber"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917125%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cyb070108-cyber" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/cyb070108-cyber" title="@cyb070108-cyber"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917125%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cyb070108-cyber" width="32" height="32"></a></td>
       <td>기아</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/yb-kia" title="Repository 열기 · yb-kia"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/yb-kia/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/yb-kia" title="Repository 열기 · yb-kia"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/yb-kia/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -332,33 +332,33 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- ys_SEERS -->
     <tr>
-      <td align="center"><a href="https://github.com/pys1234567890" title="@pys1234567890"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154675481%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@pys1234567890" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/pys1234567890" title="@pys1234567890"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154675481%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@pys1234567890" width="32" height="32"></a></td>
       <td>씨어스</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ys_SEERS" title="Repository 열기 · ys_SEERS"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/ys_SEERS/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ys_SEERS" title="Repository 열기 · ys_SEERS"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/ys_SEERS/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ys_portfolio" title="Portfolio Code · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://ysportfolio-six.vercel.app" title="Portfolio · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ys_portfolio" title="Portfolio Code · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://ysportfolio-six.vercel.app" title="Portfolio · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- yw_samsung -->
     <tr>
-      <td align="center"><a href="https://github.com/js0108279-pixel" title="@js0108279-pixel"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331859774%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@js0108279-pixel" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/js0108279-pixel" title="@js0108279-pixel"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331859774%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@js0108279-pixel" width="32" height="32"></a></td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/yw_samsung" title="Repository 열기 · yw_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/yw_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/yw_samsung" title="Repository 열기 · yw_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/yw_samsung/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- Apple-jun -->
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>Apple-jun · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Apple-jun" title="Repository 열기 · Apple-jun"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Apple-jun" title="Repository 열기 · Apple-jun"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -368,9 +368,9 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- EJ_SNUH -->
     <tr>
-      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="32" height="32"></a></td>
       <td>서울대학교병원</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Repository 열기 · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Repository 열기 · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">배포 전</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -382,7 +382,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>Jh_hynix · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Jh_hynix" title="Repository 열기 · Jh_hynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Jh_hynix" title="Repository 열기 · Jh_hynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -394,8 +394,8 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>딥노이드</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Repository 열기 · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Repository 열기 · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -406,7 +406,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>Kyu-skhynix · 저장소 비어 있음</sub></td>
-      <td align="center">🔒 <a href="https://github.com/HSC-Class02/Kyu-skhynix" title="Repository 열기 · Kyu-skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center">🔒 <a href="https://github.com/HSC-Class02/Kyu-skhynix" title="Repository 열기 · Kyu-skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -418,7 +418,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>seokjun_skhynix1 · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix1" title="Repository 열기 · seokjun_skhynix1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix1" title="Repository 열기 · seokjun_skhynix1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -430,7 +430,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>sh_neobiotec · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotec" title="Repository 열기 · sh_neobiotec"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotec" title="Repository 열기 · sh_neobiotec"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -442,7 +442,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>sh_neobiotech · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotech" title="Repository 열기 · sh_neobiotech"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotech" title="Repository 열기 · sh_neobiotech"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -454,7 +454,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>sj_samsung · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung" title="Repository 열기 · sj_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung" title="Repository 열기 · sj_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -466,7 +466,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>sujeong_samsung- · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung-" title="Repository 열기 · sujeong_samsung-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung-" title="Repository 열기 · sujeong_samsung-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -478,7 +478,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>YR_osstem · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YR_osstem" title="Repository 열기 · YR_osstem"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YR_osstem" title="Repository 열기 · YR_osstem"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -490,7 +490,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>기업명 미확인<br><sub>YW_S · 저장소 비어 있음</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YW_S" title="Repository 열기 · YW_S"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YW_S" title="Repository 열기 · YW_S"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
       <td align="center">미등록</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -502,8 +502,8 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     <tr>
       <td align="center">미확인</td>
       <td>삼성전자</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YW_Sam" title="Repository 열기 · YW_Sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/YW_Sam/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YW_Sam" title="Repository 열기 · YW_Sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/YW_Sam/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -512,22 +512,22 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
     </tr>
     <!-- portfolio-author: almor70111-star -->
     <tr>
-      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="32" height="32"></a></td>
       <td colspan="3">기업 분석 프로젝트 미연결</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- portfolio-author: wjdthfql -->
     <tr>
-      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
       <td colspan="3">기업 분석 프로젝트 미연결</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://sb-portfolio-wheat.vercel.app" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://sb-portfolio-wheat.vercel.app" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
@@ -610,46 +610,46 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
   <tbody>
     <!-- JY_LScns -->
     <tr>
-      <td rowspan="3" align="center"><strong>Course<br>Examples</strong><br><a href="https://github.com/jinawinwin" title="@jinawinwin"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F311670560%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jinawinwin" width="40" height="40"></a></td>
+      <td rowspan="3" align="center"><strong>Course<br>Examples</strong><br><a href="https://github.com/jinawinwin" title="@jinawinwin"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F311670560%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jinawinwin" width="32" height="32"></a></td>
       <td>LS Cable &amp; System</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_LScns" title="Open repository · JY_LScns"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_LScns/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_LScns" title="Open repository · JY_LScns"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_LScns/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
-      <td rowspan="3"><a href="https://jinawinwin.vercel.app/">Portfolio</a></td>
+      <td rowspan="3" align="center" width="72" nowrap><a href="https://github.com/HSC-Class01/jeeyoun_portfolio" title="Portfolio Code · jinawinwin"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jinawinwin.vercel.app/" title="Portfolio · jinawinwin"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td rowspan="3"><a href="https://www.linkedin.com/in/jinawinwin/">LinkedIn</a></td>
     </tr>
     <!-- JY_taihan -->
     <tr>
       <td>Taihan Cable &amp; Solution</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_taihan" title="Open repository · JY_taihan"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_taihan/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_taihan" title="Open repository · JY_taihan"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_taihan/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
     </tr>
     <!-- JY_Gaon -->
     <tr>
       <td>Gaon Cable</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_Gaon" title="Open repository · JY_Gaon"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_Gaon/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_Gaon" title="Open repository · JY_Gaon"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_Gaon/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
     </tr>
     <!-- AK_InBody -->
     <tr>
-      <td align="center"><a href="https://github.com/ahnkyu1924-oss" title="@ahnkyu1924-oss"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915441%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ahnkyu1924-oss" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/ahnkyu1924-oss" title="@ahnkyu1924-oss"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915441%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ahnkyu1924-oss" width="32" height="32"></a></td>
       <td>InBody</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/AK_InBody" title="Open repository · AK_InBody"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/AK_InBody/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/AK_InBody" title="Open repository · AK_InBody"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/AK_InBody/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ak_portfolio" title="Portfolio Code · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://akportfolio-kyu-ahn.vercel.app" title="Portfolio · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ak_portfolio" title="Portfolio Code · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://akportfolio-kyu-ahn.vercel.app" title="Portfolio · ak_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- CH_HD -->
     <tr>
-      <td align="center"><a href="https://github.com/choi-HUB1234" title="@choi-HUB1234"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331858827%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@choi-HUB1234" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/choi-HUB1234" title="@choi-HUB1234"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331858827%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@choi-HUB1234" width="32" height="32"></a></td>
       <td>HD Hyundai</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/CH_HD" title="Open repository · CH_HD"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/CH_HD/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/CH_HD" title="Open repository · CH_HD"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/CH_HD/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -658,10 +658,10 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- csh_sam -->
     <tr>
-      <td align="center"><a href="https://github.com/cshcsh2222-afk" title="@cshcsh2222-afk"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914575%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cshcsh2222-afk" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/cshcsh2222-afk" title="@cshcsh2222-afk"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914575%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cshcsh2222-afk" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/csh_sam" title="Open repository · csh_sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/csh_sam/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/csh_sam" title="Open repository · csh_sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/csh_sam/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -670,22 +670,22 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- dart-park-jung-won -->
     <tr>
-      <td align="center"><a href="https://github.com/sgk70062-code" title="@sgk70062-code"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916436%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sgk70062-code" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/sgk70062-code" title="@sgk70062-code"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916436%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sgk70062-code" width="32" height="32"></a></td>
       <td>SK hynix</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/dart-park-jung-won" title="Open repository · dart-park-jung-won"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/dart-park-jung-won/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/dart-park-jung-won" title="Open repository · dart-park-jung-won"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/dart-park-jung-won/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/park-jung-wom_portfolio" title="Portfolio Code · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://park-jung-wom-portfolio.vercel.app" title="Portfolio · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/park-jung-wom_portfolio" title="Portfolio Code · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://park-jung-wom-portfolio.vercel.app" title="Portfolio · park-jung-wom_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- EJ_GC-MediAI -->
     <tr>
-      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="32" height="32"></a></td>
       <td>GC MediAI</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/EJ_GC-MediAI" title="Open repository · EJ_GC-MediAI"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/EJ_GC-MediAI/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/EJ_GC-MediAI" title="Open repository · EJ_GC-MediAI"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/EJ_GC-MediAI/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -694,34 +694,34 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- HN_SD.BIO -->
     <tr>
-      <td align="center"><a href="https://github.com/naena0815-maker" title="@naena0815-maker"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914721%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@naena0815-maker" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/naena0815-maker" title="@naena0815-maker"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914721%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@naena0815-maker" width="32" height="32"></a></td>
       <td>SD Biosensor</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/HN_SD.BIO" title="Open repository · HN_SD.BIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/HN_SD.BIO/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/HN_SD.BIO" title="Open repository · HN_SD.BIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/HN_SD.BIO/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/HN_PORTPOLIO" title="Portfolio Code · HN_PORTPOLIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/HN_PORTPOLIO" title="Portfolio Code · HN_PORTPOLIO"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- hy_samsung-electronics -->
     <tr>
-      <td align="center"><a href="https://github.com/kimkimhayan227-tech" title="@kimkimhayan227-tech"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331852665%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimkimhayan227-tech" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/kimkimhayan227-tech" title="@kimkimhayan227-tech"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331852665%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimkimhayan227-tech" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/hy_samsung-electronics" title="Open repository · hy_samsung-electronics"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/hy_samsung-electronics/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/hy_samsung-electronics" title="Open repository · hy_samsung-electronics"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/hy_samsung-electronics/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/kimhayan_portfolio" title="Portfolio Code · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://kimhayanportfolio.vercel.app" title="Portfolio · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/kimhayan_portfolio" title="Portfolio Code · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://kimhayanportfolio.vercel.app" title="Portfolio · kimhayan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- jh_skhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/jihyun007" title="@jihyun007"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917642%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jihyun007" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/jihyun007" title="@jihyun007"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917642%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jihyun007" width="32" height="32"></a></td>
       <td>SK hynix</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/jh_skhynix" title="Open repository · jh_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/jh_skhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/jh_skhynix" title="Open repository · jh_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/jh_skhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -730,58 +730,58 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- juy_KEPC -->
     <tr>
-      <td align="center"><a href="https://github.com/juyeong9335-lgtm" title="@juyeong9335-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328919783%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@juyeong9335-lgtm" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/juyeong9335-lgtm" title="@juyeong9335-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328919783%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@juyeong9335-lgtm" width="32" height="32"></a></td>
       <td>KEPCO</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/juy_KEPC" title="Open repository · juy_KEPC"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/juy_KEPC/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/juy_KEPC" title="Open repository · juy_KEPC"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/juy_KEPC/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://juyeong-portfolio.vercel.app" title="Portfolio · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://juyeong-portfolio.vercel.app" title="Portfolio · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JW_NAVER -->
     <tr>
-      <td align="center"><a href="https://github.com/kimgongfly-lab" title="@kimgongfly-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914631%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimgongfly-lab" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/kimgongfly-lab" title="@kimgongfly-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914631%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimgongfly-lab" width="32" height="32"></a></td>
       <td>NAVER</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JW_NAVER" title="Open repository · JW_NAVER"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JW_NAVER/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JW_NAVER" title="Open repository · JW_NAVER"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JW_NAVER/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/jws_portfolio" title="Portfolio Code · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://jwsportfolio.vercel.app" title="Portfolio · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jws_portfolio" title="Portfolio Code · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jwsportfolio.vercel.app" title="Portfolio · jws_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- JY_SAMSUNG -->
     <tr>
-      <td align="center"><a href="https://github.com/jy-117-02" title="@jy-117-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916473%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jy-117-02" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/jy-117-02" title="@jy-117-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328916473%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@jy-117-02" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JY_SAMSUNG" title="Open repository · JY_SAMSUNG"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JY_SAMSUNG/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JY_SAMSUNG" title="Open repository · JY_SAMSUNG"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JY_SAMSUNG/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JAEYOUNG_portfolio" title="Portfolio Code · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://jaeyoungportfolio.vercel.app/" title="Portfolio · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/JAEYOUNG_portfolio" title="Portfolio Code · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jaeyoungportfolio.vercel.app/" title="Portfolio · JAEYOUNG_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- ms_samsung -->
     <tr>
-      <td align="center"><a href="https://github.com/msshin0280-lgtm" title="@msshin0280-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914297%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@msshin0280-lgtm" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/msshin0280-lgtm" title="@msshin0280-lgtm"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914297%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@msshin0280-lgtm" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ms_samsung" title="Open repository · ms_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/ms_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ms_samsung" title="Open repository · ms_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/ms_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://ms-portfolio-taupe.vercel.app" title="Portfolio · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ms-Portfolio" title="Portfolio Code · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://ms-portfolio-taupe.vercel.app" title="Portfolio · ms-Portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SB_SKhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/131n22" title="@131n22"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918592%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@131n22" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/131n22" title="@131n22"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918592%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@131n22" width="32" height="32"></a></td>
       <td>SK hynix</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SB_SKhynix" title="Open repository · SB_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/SB_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SB_SKhynix" title="Open repository · SB_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/SB_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -790,46 +790,46 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- SC_SamsungEc -->
     <tr>
-      <td align="center"><a href="https://github.com/DgGoo70" title="@DgGoo70"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271452374%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@DgGoo70" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/DgGoo70" title="@DgGoo70"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271452374%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@DgGoo70" width="32" height="32"></a></td>
       <td>Samsung Electro-Mechanics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SC_SamsungEc" title="Open repository · SC_SamsungEc"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/SC_SamsungEc/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SC_SamsungEc" title="Open repository · SC_SamsungEc"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/SC_SamsungEc/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Seokchan_portfolio" title="Portfolio Code · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://seokchanportfolio.vercel.app" title="Portfolio · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/Seokchan_portfolio" title="Portfolio Code · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://seokchanportfolio.vercel.app" title="Portfolio · Seokchan_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SE_Seegene -->
     <tr>
-      <td align="center"><a href="https://github.com/Seongeun-02" title="@Seongeun-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914949%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@Seongeun-02" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/Seongeun-02" title="@Seongeun-02"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914949%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@Seongeun-02" width="32" height="32"></a></td>
       <td>Seegene</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SE_Seegene" title="Open repository · SE_Seegene"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://HSC-Class02.github.io/SE_Seegene/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SE_Seegene" title="Open repository · SE_Seegene"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://HSC-Class02.github.io/SE_Seegene/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seongeun_portfolio" title="Portfolio Code · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://seongeunportfolio-ten.vercel.app" title="Portfolio · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/seongeun_portfolio" title="Portfolio Code · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://seongeunportfolio-ten.vercel.app" title="Portfolio · seongeun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- seokjun_skhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/qkdtjrwns12345-alt" title="@qkdtjrwns12345-alt"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915920%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@qkdtjrwns12345-alt" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/qkdtjrwns12345-alt" title="@qkdtjrwns12345-alt"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915920%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@qkdtjrwns12345-alt" width="32" height="32"></a></td>
       <td>SK hynix</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix" title="Open repository · seokjun_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/seokjun_skhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix" title="Open repository · seokjun_skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/seokjun_skhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjoun_portfolio" title="Portfolio Code · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://seokjounportfolio.vercel.app" title="Portfolio · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/seokjoun_portfolio" title="Portfolio Code · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://seokjounportfolio.vercel.app" title="Portfolio · seokjoun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- SH_SKhynix -->
     <tr>
-      <td align="center"><a href="https://github.com/ssong071210-rgb" title="@ssong071210-rgb"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331844341%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ssong071210-rgb" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/ssong071210-rgb" title="@ssong071210-rgb"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331844341%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@ssong071210-rgb" width="32" height="32"></a></td>
       <td>SK hynix</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/SH_SKhynix" title="Open repository · SH_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://HSC-Class02.github.io/SH_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/SH_SKhynix" title="Open repository · SH_SKhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://HSC-Class02.github.io/SH_SKhynix/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -838,10 +838,10 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- sj_samsung1 -->
     <tr>
-      <td align="center"><a href="https://github.com/32trgfdg" title="@32trgfdg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917259%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@32trgfdg" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/32trgfdg" title="@32trgfdg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917259%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@32trgfdg" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung1" title="Open repository · sj_samsung1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/sj_samsung1/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung1" title="Open repository · sj_samsung1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sj_samsung1/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -850,34 +850,34 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- sujeong_samsung -->
     <tr>
-      <td align="center"><a href="https://github.com/07sujeong-jpg" title="@07sujeong-jpg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915512%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@07sujeong-jpg" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/07sujeong-jpg" title="@07sujeong-jpg"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328915512%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@07sujeong-jpg" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung" title="Open repository · sujeong_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/sujeong_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung" title="Open repository · sujeong_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sujeong_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_portfolio" title="Portfolio Code · sujeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sujeong_portfolio" title="Portfolio Code · sujeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- sy_emart -->
     <tr>
-      <td align="center"><a href="https://github.com/sadzxc706-sketch" title="@sadzxc706-sketch"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328923137%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sadzxc706-sketch" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/sadzxc706-sketch" title="@sadzxc706-sketch"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328923137%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@sadzxc706-sketch" width="32" height="32"></a></td>
       <td>E-Mart</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sy_emart" title="Open repository · sy_emart"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/sy_emart/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sy_emart" title="Open repository · sy_emart"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/sy_emart/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/siyun_portfolio" title="Portfolio Code · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://vercel.com/sadzxc706-2000/siyun-portfolio" title="Vercel 관리 · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Vercel 관리" width="36" height="36"></a><br><sub>Vercel 관리</sub></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/siyun_portfolio" title="Portfolio Code · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://vercel.com/sadzxc706-2000/siyun-portfolio" title="Vercel 관리 · siyun_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Vercel 관리" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- wj-SONOsquare -->
     <tr>
-      <td align="center"><a href="https://github.com/k77m5hpwpb-hash" title="@k77m5hpwpb-hash"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334762567%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@k77m5hpwpb-hash" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/k77m5hpwpb-hash" title="@k77m5hpwpb-hash"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334762567%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@k77m5hpwpb-hash" width="32" height="32"></a></td>
       <td>SONO Square</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/wj-SONOsquare" title="Open repository · wj-SONOsquare"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/wj-SONOsquare/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/wj-SONOsquare" title="Open repository · wj-SONOsquare"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/wj-SONOsquare/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -886,10 +886,10 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- yb-kia -->
     <tr>
-      <td align="center"><a href="https://github.com/cyb070108-cyber" title="@cyb070108-cyber"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917125%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cyb070108-cyber" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/cyb070108-cyber" title="@cyb070108-cyber"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328917125%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@cyb070108-cyber" width="32" height="32"></a></td>
       <td>Kia</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/yb-kia" title="Open repository · yb-kia"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/yb-kia/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/yb-kia" title="Open repository · yb-kia"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/yb-kia/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -898,33 +898,33 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- ys_SEERS -->
     <tr>
-      <td align="center"><a href="https://github.com/pys1234567890" title="@pys1234567890"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154675481%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@pys1234567890" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/pys1234567890" title="@pys1234567890"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154675481%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@pys1234567890" width="32" height="32"></a></td>
       <td>Seers</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ys_SEERS" title="Open repository · ys_SEERS"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/ys_SEERS/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/ys_SEERS" title="Open repository · ys_SEERS"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/ys_SEERS/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/ys_portfolio" title="Portfolio Code · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://ysportfolio-six.vercel.app" title="Portfolio · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/ys_portfolio" title="Portfolio Code · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://ysportfolio-six.vercel.app" title="Portfolio · ys_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- yw_samsung -->
     <tr>
-      <td align="center"><a href="https://github.com/js0108279-pixel" title="@js0108279-pixel"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331859774%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@js0108279-pixel" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/js0108279-pixel" title="@js0108279-pixel"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F331859774%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@js0108279-pixel" width="32" height="32"></a></td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/yw_samsung" title="Open repository · yw_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/yw_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/yw_samsung" title="Open repository · yw_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/yw_samsung/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- Apple-jun -->
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>Apple-jun · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Apple-jun" title="Open repository · Apple-jun"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Apple-jun" title="Open repository · Apple-jun"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -934,9 +934,9 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- EJ_SNUH -->
     <tr>
-      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/eunjeong1900" title="@eunjeong1900"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328918677%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@eunjeong1900" width="32" height="32"></a></td>
       <td>SNUH</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Open repository · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/EJ_SNUH" title="Open repository · EJ_SNUH"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not yet deployed</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -948,7 +948,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>Jh_hynix · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/Jh_hynix" title="Open repository · Jh_hynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/Jh_hynix" title="Open repository · Jh_hynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -960,8 +960,8 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Deepnoid</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Open repository · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Open repository · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -972,7 +972,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>Kyu-skhynix · Empty repository</sub></td>
-      <td align="center">🔒 <a href="https://github.com/HSC-Class02/Kyu-skhynix" title="Open repository · Kyu-skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center">🔒 <a href="https://github.com/HSC-Class02/Kyu-skhynix" title="Open repository · Kyu-skhynix"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -984,7 +984,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>seokjun_skhynix1 · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix1" title="Open repository · seokjun_skhynix1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/seokjun_skhynix1" title="Open repository · seokjun_skhynix1"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -996,7 +996,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>sh_neobiotec · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotec" title="Open repository · sh_neobiotec"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotec" title="Open repository · sh_neobiotec"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1008,7 +1008,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>sh_neobiotech · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotech" title="Open repository · sh_neobiotech"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sh_neobiotech" title="Open repository · sh_neobiotech"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1020,7 +1020,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>sj_samsung · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung" title="Open repository · sj_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sj_samsung" title="Open repository · sj_samsung"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1032,7 +1032,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>sujeong_samsung- · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung-" title="Open repository · sujeong_samsung-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/sujeong_samsung-" title="Open repository · sujeong_samsung-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1044,7 +1044,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>YR_osstem · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YR_osstem" title="Open repository · YR_osstem"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YR_osstem" title="Open repository · YR_osstem"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1056,7 +1056,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Company unconfirmed<br><sub>YW_S · Empty repository</sub></td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YW_S" title="Open repository · YW_S"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YW_S" title="Open repository · YW_S"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
       <td align="center">Not registered</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1068,8 +1068,8 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     <tr>
       <td align="center">Unconfirmed</td>
       <td>Samsung Electronics</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/YW_Sam" title="Open repository · YW_Sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="36" height="36"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/YW_Sam/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="36" height="36"></a></td>
+      <td align="center"><a href="https://github.com/HSC-Class02/YW_Sam" title="Open repository · YW_Sam"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/YW_Sam/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -1078,22 +1078,22 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
     </tr>
     <!-- portfolio-author: almor70111-star -->
     <tr>
-      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="32" height="32"></a></td>
       <td colspan="3">Corporate project not linked</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- portfolio-author: wjdthfql -->
     <tr>
-      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="40" height="40"></a></td>
+      <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
       <td colspan="3">Corporate project not linked</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="36" height="36"></a> <a href="https://sb-portfolio-wheat.vercel.app" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="36" height="36"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/sb-portfolio" title="Portfolio Code · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://sb-portfolio-wheat.vercel.app" title="Portfolio · sb-portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
