@@ -174,6 +174,18 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://juyeong-portfolio.vercel.app" title="Portfolio · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
+    <!-- JS_DEEPNOID -->
+    <tr>
+      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="32" height="32"></a></td>
+      <td>딥노이드</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Repository 열기 · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+    </tr>
     <!-- JW_NAVER -->
     <tr>
       <td align="center"><a href="https://github.com/kimgongfly-lab" title="@kimgongfly-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914631%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimgongfly-lab" width="32" height="32"></a></td>
@@ -351,7 +363,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/YW_portfolio" title="Portfolio Code · YW_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://yw-portfolio-two.vercel.app/?utm_source=chatgpt.com" title="Portfolio · YW_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- Apple-jun -->
@@ -390,18 +402,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- JS_DEEPNOID -->
-    <tr>
-      <td align="center">미확인</td>
-      <td>딥노이드</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Repository 열기 · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Repository 열기" width="28" height="28"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Dashboard 열기"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Dashboard 열기" width="28" height="28"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
+    
     <!-- Kyu-skhynix -->
     <tr>
       <td align="center">미확인</td>
@@ -510,16 +511,7 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- portfolio-author: almor70111-star -->
-    <tr>
-      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="32" height="32"></a></td>
-      <td colspan="3">기업 분석 프로젝트 미연결</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
-      <td>&nbsp;</td>
-    </tr>
+    
     <!-- portfolio-author: wjdthfql -->
     <tr>
       <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
@@ -740,6 +732,18 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/juyeong_portfolio" title="Portfolio Code · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://juyeong-portfolio.vercel.app" title="Portfolio · juyeong_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
+    <!-- JS_DEEPNOID -->
+    <tr>
+      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="32" height="32"></a></td>
+      <td>Deepnoid</td>
+      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Open repository · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
+      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
+      <td>&nbsp;</td>
+    </tr>
     <!-- JW_NAVER -->
     <tr>
       <td align="center"><a href="https://github.com/kimgongfly-lab" title="@kimgongfly-lab"><img src="https://wsrv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328914631%3Fv%3D4&amp;w=96&amp;h=96&amp;fit=cover&amp;mask=circle&amp;output=png" alt="@kimgongfly-lab" width="32" height="32"></a></td>
@@ -917,7 +921,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/YW_portfolio-" title="Portfolio Code · YW_portfolio-"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a></td>
+      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/YW_portfolio" title="Portfolio Code · YW_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://yw-portfolio-two.vercel.app/?utm_source=chatgpt.com" title="Portfolio · YW_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
       <td>&nbsp;</td>
     </tr>
     <!-- Apple-jun -->
@@ -956,18 +960,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- JS_DEEPNOID -->
-    <tr>
-      <td align="center">Unconfirmed</td>
-      <td>Deepnoid</td>
-      <td align="center"><a href="https://github.com/HSC-Class02/JS_DEEPNOID" title="Open repository · JS_DEEPNOID"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/repository-01.svg" alt="Open repository" width="28" height="28"></a></td>
-      <td align="center"><a href="https://hsc-class02.github.io/JS_DEEPNOID/" title="Open dashboard"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/dashboard-02.svg" alt="Open dashboard" width="28" height="28"></a></td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
+    
     <!-- Kyu-skhynix -->
     <tr>
       <td align="center">Unconfirmed</td>
@@ -1076,16 +1069,7 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    <!-- portfolio-author: almor70111-star -->
-    <tr>
-      <td align="center"><a href="https://github.com/almor70111-star" title="@almor70111-star"><img src="https://avatars.githubusercontent.com/u/331858139?v=4" alt="@almor70111-star" width="32" height="32"></a></td>
-      <td colspan="3">Corporate project not linked</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center" width="72" nowrap><a href="https://github.com/HSC-Class02/jiseop_portfolio" title="Portfolio Code · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-code-03.svg" alt="Portfolio Code" width="28" height="28"></a>&#8288;&nbsp;&#8288;<a href="https://jiseopportfolio-1phh.vercel.app/#about" title="Portfolio · jiseop_portfolio"><img src="https://raw.githubusercontent.com/HSC-Class02/.github/main/profile/assets/link-badges/portfolio-profile-02.svg" alt="Portfolio" width="28" height="28"></a></td>
-      <td>&nbsp;</td>
-    </tr>
+    
     <!-- portfolio-author: wjdthfql -->
     <tr>
       <td align="center"><a href="https://github.com/wjdthfql" title="@wjdthfql"><img src="https://avatars.githubusercontent.com/u/328915049?v=4" alt="@wjdthfql" width="32" height="32"></a></td>
