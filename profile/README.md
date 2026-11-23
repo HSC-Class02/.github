@@ -414,7 +414,6 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    
     <!-- Kyu-skhynix -->
     <tr>
       <td align="center">미확인</td>
@@ -523,8 +522,6 @@ Portfolio 칸의 보라색 **코드 폴더**는 GitHub 소스 저장소, **프�
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    
-    
   </tbody>
 </table>
 
@@ -975,7 +972,6 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    
     <!-- Kyu-skhynix -->
     <tr>
       <td align="center">Unconfirmed</td>
@@ -1084,8 +1080,6 @@ Click an author’s icon to visit their GitHub profile. Students should fill in 
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
-    
-    
   </tbody>
 </table>
 
